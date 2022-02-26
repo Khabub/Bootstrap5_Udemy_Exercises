@@ -1,0 +1,35 @@
+a:hover {
+    color: blue !important;
+}
+
+#title-pic {
+    background-image: url(./background.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: top;
+    background-repeat: no-repeat;
+    height: 680px;
+
+    
+}
+
+.rob-child div:nth-child(2n) {
+    background-color: rgb(58, 81, 185);
+    color: white;
+}
+
+.card {
+   width: 18rem;
+   
+}
+
+.card img {
+    position: relative;
+    top: -2rem;
+    
+}
+
+footer p {
+    position: relative;
+    top: .3rem;
+}

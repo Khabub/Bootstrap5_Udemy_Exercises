@@ -1,0 +1,38 @@
+nav {
+    background-color: rgba(29, 224, 153, 0.8);
+}
+
+
+
+.main-photo {
+    background: linear-gradient(48deg, rgba(11, 110, 11, 0.8), rgba(220, 233, 220, 0.8)),
+    url(./electron--unsplash.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.rob-main {
+    height: 100vh;
+}
+
+
+.features-section hr {    
+    height: 0.3rem;
+    background-color: rgb(39, 131, 30);    
+}
+
+.carousel-section .carousel-control-prev-icon {
+    width: 64px;
+    height: 64px;
+    background-color: rgb(102, 128, 55);
+}
+
+.carousel-section .carousel-control-next-icon {
+    width: 64px;
+    height: 64px;
+    background-color: rgb(102, 128, 55);
+}
+
+#successAlert {
+    display: none;
+}

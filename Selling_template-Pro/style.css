@@ -1,0 +1,22 @@
+body {
+    font-family: monospace, sans-serif;
+}
+
+.list-group .active{
+    color: blue;
+    background-color: white;
+    border: 0;
+}
+
+.rob-kolo {
+    width: 30px;
+    height: 30px;
+}
+
+.rob-line-height {
+    line-height: 0.7rem;
+}
+
+.rob-line-height-1 {
+    line-height: 1.2rem;
+}
